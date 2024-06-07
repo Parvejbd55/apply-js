@@ -3,7 +3,7 @@ function fibonacci(n) {
     if(n == 0){
         return [0];
     }
-    elseif(n == 1){
+    elseif(n == 1);{
         return [0, 1];
     }
     else{
